@@ -1,0 +1,25 @@
+{
+  "name": "ramwin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ramwin/ramwin.js.git"
+  },
+  "keywords": [
+    "ramwin",
+    "npm",
+    "package",
+    "tutorial"
+  ],
+  "author": "Xiang Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ramwin/ramwin.js/issues"
+  },
+  "homepage": "https://github.com/ramwin/ramwin.js#readme"
+}
