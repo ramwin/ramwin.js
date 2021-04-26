@@ -2,7 +2,7 @@
 
 
 exports.desc = "ramwin's package"
-exports.date = "2021-03-16"
+exports.date = "2021-04-26"
 exports.long_desc = `\
 This is a very long sentence that \
 you can use is to test whether \
